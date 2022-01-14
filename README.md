@@ -1,5 +1,5 @@
 # Covid19_California_Cases_Statistics
-California's Covid19 Cases Statistic Visualization (Reported in 01/11/2022)
+California's Covid19 Cases Statistic Visualization (Reported in 01/12/2022)
 
 Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov</a>
 
