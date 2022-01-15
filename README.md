@@ -1,5 +1,5 @@
 # Covid19_California_Cases_Statistics
-California's Covid19 Cases Statistic Visualization (Reported in 01/12/2022)
+California's Covid19 Cases Statistic Visualization (Reported in 01/13/2022)
 
 Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov</a>
 
@@ -14,13 +14,13 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
 ## Covid19 California Statistics/Demographic Result
 - ### Statistics 
   - Cases (Statewide)
-    - Total US Cases: 6296907.0
-    - Covid19 cases in 2022-01-12: +108040.0 (+1.7158%)
-    - Cases per 100k 7-day average: 257.83
+    - Total US Cases: 6416171.0
+    - Covid19 cases in 2022-01-13 is +119264.0(+1.8588%)
+    - Cases per 100k 7-day average: 235.36
   - Deaths (Statewide)
-      - Total US Deaths : 76804.0
-      - Covid19 deaths in 2022-01-12 : +121.0 (+0.1575%)
-      - Deaths per 100k 7-day average: 0.07
+      - Total US Deaths : 76940.0
+      - Covid19 deaths in 2022-01-13 is 136.0(0.1768%)
+      - Deaths per 100k 7-day average: 0.08
 
 - ### Demographic
   - Race Ethnicity
