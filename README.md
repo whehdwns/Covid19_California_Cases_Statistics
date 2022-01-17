@@ -11,3 +11,13 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
   - Power BI (Need to sign in to view Power BI dashboard)
     - <a href="https://app.powerbi.com/reportEmbed?reportId=252c71df-ff96-4bb2-bdde-ac4caebb4ea1&autoAuth=true&ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&   config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"> Covid19 CA Statistics </a>
     - <a href="https://app.powerbi.com/reportEmbed?reportId=ffeab282-8872-4d64-9143-252d38a0b441&autoAuth=true&ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"> Covid19 CA Demographics </a>
+
+- Covid19 CA Statistics Result
+  - Cases (Statewide)
+    - Total US Cases is 6735980.0
+    - Covid19 cases in 2022-01-16 is +319809.0(+4.7478%)
+    - Cases per 100k 7-day average: 189.0
+  - Deaths (Statewide)
+    - Total US Deaths is 77270.0
+    - Covid19 deaths in 2022-01-16 is +330.0(+0.4271%)
+    - Deaths per 100k 7-day average: 0.11
