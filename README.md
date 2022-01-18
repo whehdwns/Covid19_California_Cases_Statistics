@@ -7,10 +7,11 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
   - Tableau
     - <a href="https://public.tableau.com/app/profile/dongjun.cho/viz/DongjunC_COVID19_CA_GOV_Clone/Dashboard1"> Covid19 CA Statistics </a>
     - <a href="https://public.tableau.com/app/profile/dongjun.cho/viz/Covid19CA_Demographic/Dashboard1"> Covid19 CA Demographics </a>
-    - <a href="https://public.tableau.com/app/profile/dongjun.cho/viz/DongjunC_Covid19_Impact_on_Hospital/Dashboard1"> Covid19 Impact on Hospital </a>
+    - <a href="https://public.tableau.com/app/profile/dongjun.cho/viz/DongjunC_Covid19_Impact_on_Hospital/Dashboard1"> Covid19 CA Impact on Hospital </a>
   - Power BI (Need to sign in to view Power BI dashboard)
     - <a href="https://app.powerbi.com/reportEmbed?reportId=9534045a-386b-4e0d-b244-a4b89d321842&autoAuth=true&ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"> Covid19 CA Statistics </a>
     - <a href="https://app.powerbi.com/reportEmbed?reportId=ffeab282-8872-4d64-9143-252d38a0b441&autoAuth=true&ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"> Covid19 CA Demographics </a>
+    - <a href="https://app.powerbi.com/reportEmbed?reportId=dfb07f6f-9799-4750-9332-22c8c2a0d3c5&autoAuth=true&ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"> Covid19 CA Impact on Hospital </a>
 
 - Covid19 CA Statistics Result
   - Cases (Statewide)
