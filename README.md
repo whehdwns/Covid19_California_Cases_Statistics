@@ -15,10 +15,10 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
 
 - Covid19 CA Statistics Result
   - Cases (Statewide)
-    - Total US Cases : 6735980.0
-    - Covid19 cases in 2022-01-16 : +319809.0(+4.7478%)
-    - Cases per 100k 7-day average: 189.0
+    - Total US Cases : 6812354.0
+    - Covid19 cases in 2022-01-17 : +76374.0(+1.1211%)
+    - Cases per 100k 7-day average: 246.53
   - Deaths (Statewide)
-    - Total US Deaths : 77270.0
-    - Covid19 deaths in 2022-01-16 : +330.0(+0.4271%)
+    - Total US Deaths : 77306.0
+    - Covid19 deaths in 2022-01-17 : +36.0(+0.0466%)
     - Deaths per 100k 7-day average: 0.11
