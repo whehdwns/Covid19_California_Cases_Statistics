@@ -3,13 +3,13 @@ library(ggplot2)
 
 setwd("C:/Users/dongj/Desktop/Covid_Cal/Statewide_case_statistics_and_demographics")
 
-data <- read.csv("./dataset/covid19cases_test_012022.csv")
-data_v1 <- read.csv("./dataset/covid19cases_test_012022.csv")
+data <- read.csv("./dataset/covid19cases_test_012122.csv")
+data_v1 <- read.csv("./dataset/covid19cases_test_012122.csv")
 
 data_v1 <- data_v1[data_v1$area_type == 'County',]
 
 data_v1 <- filter(data_v1,
-                  !area %in% c('Unknown', 'Out of state'))
+                  !area %in% c('Out of state'))
 
 unique(data_v1$area)
 
@@ -314,6 +314,9 @@ extract_7_days_average_per_100k<- data.frame(Area,
                                              Average_Cases_7_days,
                                              Average_Deaths_7_days)
 head(extract_7_days_average_per_100k,5)
+
+extract_7_days_average_per_100k <- filter(extract_7_days_average_per_100k,
+                                    !area %in% c('Unknown'))
 
 #---------------extract_7_days_average_per_100k_graph (Cases)-----------------------------
 extract_cases_7_days_average_per_100k_graph <- ggplot(data=extract_7_days_average_per_100k, 
