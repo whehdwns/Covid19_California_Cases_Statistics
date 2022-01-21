@@ -18,10 +18,10 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
     - <a href="https://github.com/whehdwns/Covid19_California_Cases_Statistics/blob/main/Python/%20Covid19_Impact_on_Hospitals_visualization.ipynb"> Covid19 CA Impact on Hospital </a>
 - Covid19 CA Statistics Result
   - Cases (Statewide)
-    - Total US Cases : 6997710.0
-    - Covid19 cases in 2022-01-19 : +86719.0(+1.2392%)
-    - Cases per 100k 7-day average (7 period ending 2022-01-19):206.1
+    - Total US Cases : 7123571.0
+    - Covid19 cases in 2022-01-20 : +125861.0(+1.7668%)
+    - Cases per 100k 7-day average (7 period ending 2022-01-20):190.78
   - Deaths (Statewide)
-    - Total US Deaths : 77521.0
-    - Covid19 deaths in 2022-01-19 : +176.0(+0.227%)
-    - Deaths per 100k 7-day average (7 period ending 2022-01-19):0.11
+    - Total US Deaths : 77722.0
+    - Covid19 deaths in 2022-01-20 : +201.0(+0.2586%)
+    - Deaths per 100k 7-day average (7 period ending 2022-01-20):0.13
