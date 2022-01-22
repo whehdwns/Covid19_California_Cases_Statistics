@@ -1,11 +1,12 @@
 library(dplyr)
 library(ggplot2)
 library(scales)
+library(ggrepel)
 
 setwd("C:/Users/dongj/Desktop/Covid_Cal/The_impact_on_hospitals_in_the_CA")
 
-data <- read.csv("./dataset/covid19hospitalbycounty_011922.csv")
-data_v1 <- read.csv("./dataset/covid19hospitalbycounty_011922.csv")
+data <- read.csv("./dataset/covid19hospitalbycounty_012122.csv")
+data_v1 <- read.csv("./dataset/covid19hospitalbycounty_012122.csv")
 
 positive_patients_by_county<- aggregate(hospitalized_covid_confirmed_patients ~ county,
                                         data_v1,sum)
@@ -39,6 +40,7 @@ icu_available_beds_by_date<- aggregate(icu_available_beds ~ todays_date,
                                            data_v1,sum)
 
 #---Visualization ---------------
+
 positive_patients_by_county_graph <- ggplot(data=positive_patients_by_county, 
                                         aes(x = hospitalized_covid_confirmed_patients, 
                                             y = reorder(county, 
@@ -62,7 +64,6 @@ positive_patients_by_county_graph <- ggplot(data=positive_patients_by_county,
                                               inherit.aes = TRUE)
 options(repr.plot.width = 14, repr.plot.height = 8)
 positive_patients_by_county_graph
-
 
 positive_patients_by_date_graph <-ggplot(data =positive_patients_by_date)+
                                   geom_line(aes(x=todays_date, 
