@@ -5,8 +5,8 @@ library(ggrepel)
 
 setwd("C:/Users/dongj/Desktop/Covid_Cal/The_impact_on_hospitals_in_the_CA")
 
-data <- read.csv("./dataset/covid19hospitalbycounty_012122.csv")
-data_v1 <- read.csv("./dataset/covid19hospitalbycounty_012122.csv")
+data <- read.csv("./dataset/covid19hospitalbycounty_012322.csv")
+data_v1 <- read.csv("./dataset/covid19hospitalbycounty_012322.csv")
 
 positive_patients_by_county<- aggregate(hospitalized_covid_confirmed_patients ~ county,
                                         data_v1,sum)
