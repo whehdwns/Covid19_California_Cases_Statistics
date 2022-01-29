@@ -11,7 +11,7 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
   - Covid19 CA Impact on Hospital
     - <a href="https://public.tableau.com/app/profile/dongjun.cho/viz/DongjunC_Covid19_Impact_on_Hospital/Dashboard1"> Tableau </a> / <a href="https://app.powerbi.com/reportEmbed?reportId=dfb07f6f-9799-4750-9332-22c8c2a0d3c5&autoAuth=true&ctid=9fa4f438-b1e6-473b-803f-86f8aedf0dec&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QyLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D"> Power BI </a> / <a href="https://github.com/whehdwns/Covid19_California_Cases_Statistics/blob/main/Python/%20Covid19_Impact_on_Hospitals_visualization.ipynb"> Python </a> / <a href="https://github.com/whehdwns/Covid19_California_Cases_Statistics/blob/main/R/Covid19_Impact_on_Hospitals_visualization.pdf"> R </a>
 
-- Covid19 CA Statistics Result
+<!-- - Covid19 CA Statistics Result
   - Cases (Statewide)
     - Total US Cases : 7629666.0
     - Covid19 cases in 2022-01-26 : +59979.0(+0.7861%)
@@ -19,4 +19,4 @@ Dataset is from <a href="https://covid19.ca.gov/data-and-tools/"> covid19.ca.gov
   - Deaths (Statewide)
     - Total US Deaths : 78571.0
     - Covid19 deaths in 2022-01-26 : +255.0(+0.3245%)
-    - Deaths per 100k 7-day average (7 period ending 2022-01-26):0.16
+    - Deaths per 100k 7-day average (7 period ending 2022-01-26):0.16 -->
